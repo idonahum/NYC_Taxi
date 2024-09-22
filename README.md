@@ -51,12 +51,7 @@ The main dataset used in this project is the NYC Taxi Trip Duration dataset.
 
 3. **NYC Sport Events Data**:
    - Events data that been collected from various known sport websites.
-
-### How to Download Datasets
-
-All data is available in the following [google drive folder](https://drive.google.com/drive/folders/1NSbIqcCX6a-f4gJ-qSkHYFTwX9wlMKo8?usp=sharing)
-
-Just download the folder into the repository base folder and run the notebooks.
+   - 
 
 ## Getting Started
 
@@ -68,12 +63,19 @@ Just download the folder into the repository base folder and run the notebooks.
    ```bash
    pip install -r requirements.txt
    ```
-3. Download the datasets as described above and place them in the appropriate directories.
-4. Open the Jupyter notebooks in the `notebooks/` directory to explore the analysis and models.
 
-Sure, here's the updated contact section for your README:
+3. Download datasets
 
----
+   All data is available in the following [Google Drive folder](https://drive.google.com/drive/folders/1NSbIqcCX6a-f4gJ-qSkHYFTwX9wlMKo8?usp=sharing).
+
+   Use the provided `download_datasets.py` script to download the data directly into the repository's base folder or download manually and place the files `datasets` folder in the repository root folder.
+   
+   ```bash
+   python download_datasets.py
+   ```
+
+4. **Run the notebooks:**
+   Once the data is downloaded, you can run the notebooks in the `notebooks/` directory to explore the analysis and models.
 
 ## Contact
 For any queries or suggestions, feel free to reach out to us:
