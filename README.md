@@ -62,7 +62,7 @@ Just download the folder into the repository base folder and run the notebooks.
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/idonahum/NYC_Taxi.git
    ```
 2. Install the required Python packages:
    ```bash
