@@ -71,5 +71,13 @@ Just download the folder into the repository base folder and run the notebooks.
 3. Download the datasets as described above and place them in the appropriate directories.
 4. Open the Jupyter notebooks in the `notebooks/` directory to explore the analysis and models.
 
+Sure, here's the updated contact section for your README:
+
+---
+
 ## Contact
-For any queries or suggestions, feel free to contact us at [nahum92@gmail.com](mailto:nahum92@gmail.com).
+For any queries or suggestions, feel free to reach out to us:
+
+- Ido: [nahum92@gmail.com](mailto:nahum92@gmail.com)
+- Itzick: [itzick.mamistvalov@gmail.com](mailto:itzick.mamistvalov@gmail.com)
+- Kobi: [kobiaflalo87@gmail.com](mailto:kobiaflalo87@gmail.com)
