@@ -6,7 +6,7 @@ folder_url = "https://drive.google.com/drive/folders/1NSbIqcCX6a-f4gJ-qSkHYFTwX9
 folder_id = folder_url.split('/')[-1].split('?')[0]
 
 # Destination directory
-destination = os.path.join(os.getcwd(), 'downloaded_folder')  # Modify the folder name if needed
+destination = os.path.join(os.getcwd(), 'datasets')  # Modify the folder name if needed
 
 # Create the destination directory if it doesn't exist
 if not os.path.exists(destination):
