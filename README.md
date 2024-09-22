@@ -44,7 +44,7 @@ The main dataset used in this project is the NYC Taxi Trip Duration dataset.
 
 ### Additional Datasets
 1. **OSRM Routing Data**:
-   -Includes routing information such as the shortest path distance, travel time, and number of intersections for each taxi trip. These features help improve the accuracy of trip duration predictions.
+   - Includes routing information such as the shortest path distance, travel time, and number of intersections for each taxi trip. These features help improve the accuracy of trip duration predictions.
 
 2. **Weather Data**:
    - Contains historical weather information, including temperature, precipitation, and wind speed, for the NYC area. This data is used to evaluate the impact of weather conditions on taxi trip durations.
